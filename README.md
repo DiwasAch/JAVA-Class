@@ -1,0 +1,2 @@
+# JAVA-Class
+class
